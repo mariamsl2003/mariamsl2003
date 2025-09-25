@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a student at ALMaaref University(MU)<br>I'm looking forward to approving my problem-solving skills<br>I'm currently learning flutter development<br>Ask me about android development using java<br>fun fact: I love writing poems and novels but love to write codes more<br>
+I'm a graduated student from ALMaaref University(MU)<br>I'm looking forward to approving my problem-solving skills<br>I'm currently learning about mobile development<br>Ask me about android development using java<br>fun fact: I love writing poems and novels but love to write codes more<br>
 
 
 ## 🌐 Socials:
